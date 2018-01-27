@@ -1,7 +1,7 @@
 name: py1env
 channels:
+- conda-forge
 - defaults
 dependencies:
-- python=1.0.1=0
-prefix: /Users/willingc/miniconda3/envs/py1env
+- python=1.0.1
 
